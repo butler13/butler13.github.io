@@ -27,9 +27,9 @@ blog:
     qiniu: # 七牛云地址
 author:
     name: 钟爱一生 # 作者名称
-    email: liangqingyu123@foxmail.com # 邮箱地址
+    email: wind1469@sina.com # 邮箱地址
     weibo: http://weibo.com/1419491963  # 微博地址
-    github: yusmile.github.io  # GitHub地址
+    github: butler13.github.io  # GitHub地址
     logo: /res/img/icon2.png # logo地址
     douban:
         name:    # 豆瓣地址名称

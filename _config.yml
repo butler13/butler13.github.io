@@ -18,18 +18,18 @@ redcarpet:
         - autolink
 
 blog:
-    name: LiangQingYu Blog # 博客名称
-    description: Just do it # 博客描述
-    title: 梁擎宇的博客 # 网页标题
-    url: qingyu1229.github.io # 博客地址
-    duoshuo: liangqingyu  # 多说ID
+    name: The Pursuit of Happyness # 博客名称
+    description: Dream come true # 博客描述
+    title: 钟爱一生的博客 # 网页标题
+    url: http://blog.sina.com.cn/y2kking # 博客地址
+    duoshuo: 海天心Y2kking  # 多说ID
     tongji: 8d30b14c805aa6477e40b3b82084d201 # 百度统计ID
     qiniu: # 七牛云地址
 author:
-    name: 梁擎宇 # 作者名称
+    name: 钟爱一生 # 作者名称
     email: liangqingyu123@foxmail.com # 邮箱地址
-    weibo: http://weibo.com/u/1811088830  # 微博地址
-    github: https://github.com/qingyu1229  # GitHub地址
+    weibo: http://weibo.com/1419491963  # 微博地址
+    github: yusmile.github.io  # GitHub地址
     logo: /res/img/icon2.png # logo地址
     douban:
         name:    # 豆瓣地址名称
